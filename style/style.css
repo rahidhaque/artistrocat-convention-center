@@ -14,4 +14,9 @@ ul {
   top: -25px;
   border-radius: 13.5px;
  }
+ @media only screen and (max-width:688px){
+  .carousel-image{
+    height: 360px;
+  }
+ }
  
