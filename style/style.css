@@ -8,6 +8,10 @@ ul {
   .bg-customize-plan-color{
     background-color: #3F87F5;
   }
- 
- 
+ .special-hot{
+  position: absolute;
+  right: 0px;
+  top: -25px;
+  border-radius: 13.5px;
+ }
  
